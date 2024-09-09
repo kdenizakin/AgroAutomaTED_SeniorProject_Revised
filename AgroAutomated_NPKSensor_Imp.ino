@@ -9,14 +9,11 @@ using namespace websockets;
 
 SoftwareSerial NodeMCU(D6,D7); // RX and TX pins
 
-/* const char* ssid = "SUPERONLINE_WiFi_1709";
-const char* password = "3cdSg3cyexbe"; */
-const char* ssid = "LOTDC";
-const char* password = "haldirofloriens";
-/* const char* ssid = "Deniz iPhone'u";
-const char* password = "joxxfvdk2yjt56"; */
+const char* ssid = "";
+const char* password = "";
 
-const char* websocket_server = "ws://35.209.15.188:3005/WebSocketApp/websocketendpoint";  // WebSocket server URL
+
+const char* websocket_server = "ws://......:3005/WebSocketApp/websocketendpoint";  // WebSocket server URL
 bool ifWebsocketConnectionEstablished = false;
 
 WebsocketsClient client;
