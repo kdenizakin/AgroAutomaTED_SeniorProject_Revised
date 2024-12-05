@@ -5,3 +5,7 @@ Senior Project: Automatic irrigation and soil recommendation system integrates s
 Our Poster: 
 [POSTER](https://github.com/kdenizakin/AgroAutomaTED_SeniorProject_Revised/blob/main/Poster.pdf)
 
+Demo Videos:
+1) https://drive.google.com/file/d/172pOiFTISiICT1411kobssCEbPTpuin9/view?usp=drive_link
+2) https://drive.google.com/file/d/1hH38KTajejc04dRJ5-NTXPewYeiapcRP/view?usp=drive_link
+
